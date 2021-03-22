@@ -1,7 +1,8 @@
-###😈Hi there, I'm Yanzhu Jiang. 
--You can call me Yeonju or J.
+😈Hi there, I'm Yanzhu Jiang. <br />
+You can call me Yeonju or J.
 
-##😝I'm from China and I'm Korean Chinese. 
--👀Currenty studying BICT in University of Tasmania.
--🧠Second year student in UTAS
--💻MAjor in AI.
+😝I'm from China and I'm Korean Chinese. <br />
+👀Currenty studying BICT in University of Tasmania.<br />
+🧠Second year student in UTAS<br />
+💻MAjor in AI.
+
